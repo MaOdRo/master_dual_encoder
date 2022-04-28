@@ -5,7 +5,7 @@ Als Teil meiner Masterarbeit wird hier die Bearbeitung der Masterarbeit zur Wiki
 
 Orientiert an https://keras.io/examples/nlp/nl_image_search/
 <p align="center">
-<img src="masterarbeit_zur_wikipedia_image/data/images/Modell Übersicht.png" width="600" height="300">
+<img src="/data/images/Modell Übersicht.png" width="600" height="300">
 </p>
 
 ## Getting Started
