@@ -1,12 +1,17 @@
 Masterarbeit zur Wikipedia Image/Caption Competition
 ==============================
 
-Als Teil meiner Masterarbeit wird hier die Bearbeitung der Wikipedia Image/Caption Competition dargestellt. 
+Als Teil meiner Masterarbeit wird hier die Bearbeitung der Wikipedia Image/Caption Competition dargestellt. In dieser Arbeit wird ein multilinguales Dual Encoder System auf Basis von [CLIP](https://github.com/openai/CLIP) erstellt.
 
-Multilingual Problem... Diese Arbeit...dual encoder (also known as two-tower) neural network models...
 
 <p align="center">
 <img src="/data/images/Modell Übersicht.png" width="600" height="300">
+</p>
+
+Ebenfalls wird die Auswirkung von multilingualem Prompt Engineering auf die Performanz des Modells untersucht.
+
+<p align="center">
+<img src="/data/images/PromptEngineering.png" width="600" height="300">
 </p>
 
 ## Getting Started
