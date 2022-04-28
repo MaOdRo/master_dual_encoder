@@ -21,7 +21,7 @@ Folgende Python Libraries müssen zunächst installiert werden.
 ```
 ### Examples
 
-Für die Visualization der Daten:
+Für die Visualisation der Daten:
 ```
 python src/visualization/....py
 python src/generation/....py
