@@ -39,21 +39,19 @@ Für die lokale Abwicklung der unteren Beispiele wird eine GPU benötigt
 Für die Visualisation der Daten:
 ```
 python3 src/visualization/visualize.py
-
 ```
 
 Es werden die Header der Daten ausgegeben und die verteilung der Sprachen im Datensatz angezeigt.
 
-Für das beispielhafte Training und die Evaluation des Projekts:
+Für das beispielhafte Training für 5 Epochen und die Evaluation des Projekts zu starten:
 
-#Um das Training für 5 Epochen zu starten:
 
 ```
 python3 src/model/train_model.py
 ```
 Die Logs liegen daraufhin im Ordner /lightning_logs
 
-#Beispielhafte Evaluation des Zero Shot CLIP Modells und des Multilingualen Modells anhand der Top 20 Accuracy
+Beispielhafte Evaluation des Zero Shot CLIP Modells und des Multilingualen Modells anhand der Top 20 Accuracy
 
 #python3 src/evaluation/..._model_evaluation.py
 
