@@ -31,27 +31,32 @@ Notebooks, die den Ablauf der Bearbeitung zeigen
 ```
 pip install -r requirements.txt
 
-Für die lokale Abwicklung der unteren Beispiele wird eine GPU benötigt
 ```
+Für die lokale Abwicklung der unteren Beispiele wird eine GPU benötigt
+
 ### Examples
 
 Für die Visualisation der Daten:
 ```
 python3 src/visualization/visualize.py
 
-Es werden die Header der Daten ausgegeben und die verteilung der Sprachen im Datensatz angezeigt.
-...
 ```
 
-
+Es werden die Header der Daten ausgegeben und die verteilung der Sprachen im Datensatz angezeigt.
 
 Für das beispielhafte Training und die Evaluation des Projekts:
 
-```
 #Um das Training für 5 Epochen zu starten:
+
+```
 python3 src/model/train_model.py
+```
 Die Logs liegen daraufhin im Ordner /lightning_logs
 
 #Beispielhafte Evaluation des Zero Shot CLIP Modells und des Multilingualen Modells anhand der Top 20 Accuracy
+
 #python3 src/evaluation/..._model_evaluation.py
+
+```
 python3 src/evaluation/zero_shot_evaluation.py
+```
