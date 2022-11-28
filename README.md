@@ -18,7 +18,7 @@ Ebenfalls wird die Auswirkung von multilingualem Prompt Engineering auf die Perf
 ## Getting Started
 
 
-Zusammenfassende Notebooks, die den Ablauf der Bearbeitung zeigen
+Notebooks, die den Ablauf der Bearbeitung zeigen
 
 - [Einleitung/Datainspection](https://colab.research.google.com/drive/1p0GIyOQP1hrQpwrephUh10zfPb5LvikB?hl=de#scrollTo=WR78qszh6mPA)
 - [Benchmark/Zero Shot CLIP](https://colab.research.google.com/drive/1wLefrr7n329jjH4XGHPOtYW67-5T-Ufm?hl=de#scrollTo=lmP4P3IPshFC)
@@ -30,8 +30,8 @@ Zusammenfassende Notebooks, die den Ablauf der Bearbeitung zeigen
 
 ```
 pip install -r requirements.txt
-...
-...
+
+Für die lokale Abwicklung der unteren Beispiele wird eine GPU benötigt
 ```
 ### Examples
 
