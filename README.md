@@ -53,7 +53,6 @@ Die Logs liegen daraufhin im Ordner /lightning_logs
 
 Beispielhafte Evaluation des Zero Shot CLIP Modells und des Multilingualen Modells anhand der Top 20 Accuracy
 
-#python3 src/evaluation/..._model_evaluation.py
 
 ```
 python3 src/evaluation/zero_shot_evaluation.py
